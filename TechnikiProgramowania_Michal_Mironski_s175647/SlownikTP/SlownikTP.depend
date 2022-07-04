@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1652341214 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\slowniktp\main.cpp
+	<iostream>
+	<string>
+	"funckje.h"
+	"UIPrints.h"
+
+1652340893 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\slowniktp\funckje.h
+
+1652340921 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\slowniktp\uiprints.h
+
+1652341246 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\slowniktp\funkcje.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string>
+	"funkcje.h"
+
+1652340727 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\slowniktp\include\funkcje.h
+
+1652341270 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\slowniktp\uiprints.cpp
+	<iostream>
+	<windows.h>
+	"funckje.h"
+	"UIPrints.h"
+
